@@ -1,0 +1,22 @@
+
+body{
+    background-color:		#cccccc;
+    font-family: "poppins";
+}
+
+h1{
+   
+    color: blue;
+    background-color: darkgoldenrod;
+    text-align: center;
+}
+
+h2{
+
+    background-color: bisque;
+    text-align: right;
+}
+
+.ul{
+    text-decoration: line-through;
+}
